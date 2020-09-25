@@ -1,0 +1,10 @@
+[package]
+name = "blank"
+version = "0.1.0"
+authors = ["lundha <martlh@stud.ntnu.no>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+piston_window = "0.112.0"
